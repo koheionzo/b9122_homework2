@@ -1,3 +1,7 @@
+# Author: Kohei Onzo
+# Last updated: October 2, 2022
+
+
 # import packages
 from bs4 import BeautifulSoup
 import urllib.request
